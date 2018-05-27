@@ -765,7 +765,7 @@ dd.project-people {
 
 .chat-user {
   padding: 8px 10px;
-  border-bottom: 1px solid #e7eaec;
+  border-bottom: 1px solid $border-color;
 }
 
 .chat-user a {
@@ -797,7 +797,7 @@ dd.project-people {
 .message-avatar {
   height: 48px;
   width: 48px;
-  border: 1px solid #e7eaec;
+  border: 1px solid $border-color;
   border-radius: 4px;
   margin-top: 1px;
 }
@@ -814,7 +814,7 @@ dd.project-people {
 
 .message {
   background-color: #fff;
-  border: 1px solid #e7eaec;
+  border: 1px solid $border-color;
   text-align: left;
   display: block;
   padding: 10px 20px;
@@ -1020,7 +1020,7 @@ table.issue-tracker tbody tr td {
 .agile-list li {
 
   background: #FAFAFB;
-  border: 1px solid #e7eaec;
+  border: 1px solid $border-color;
   margin: 0 0 10px 0;
   padding: 10px;
   border-radius: 2px;
@@ -1194,7 +1194,7 @@ table.shoping-cart-table {
 .social-feed-separated .social-avatar img {
   width: 52px;
   height: 52px;
-  border: 1px solid #e7eaec;
+  border: 1px solid $border-color;
 }
 
 .social-feed-separated .social-feed-box .social-avatar {
@@ -1204,7 +1204,7 @@ table.shoping-cart-table {
 
 .social-feed-box {
   /*padding: 15px;*/
-  border: 1px solid #e7eaec;
+  border: 1px solid $border-color;
   background: #fff;
   margin-bottom: 15px;
 }
@@ -1256,7 +1256,7 @@ table.shoping-cart-table {
 }
 
 .social-footer {
-  border-top: 1px solid #e7eaec;
+  border-top: 1px solid $border-color;
   padding: 10px 15px;
   background: #f9f9f9;
 }
